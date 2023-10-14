@@ -3,7 +3,7 @@
 admin/config.php
 
 !index.html
-
+env/
 download/
 image/data/
 image/cache/
